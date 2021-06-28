@@ -607,7 +607,7 @@ transform: rotate(45deg) translate(-5px,-6px);
 
 /* start subscribe */
 .subscribe{
-    background-color: #f3f3f3;
+    background-color: #f3f3f7;
     background-image: url(../img/Design.png);
     background-size: contain;
     background-repeat: no-repeat;
@@ -688,4 +688,11 @@ transform: rotate(45deg) translate(-5px,-6px);
 }
 .footer ul li{
     font-size: 16px;
+}
+.copyright{
+    background-color: var(--main-color);
+    color: #f2f2f1;
+    font-size: 18px;
+    padding: 10px;
+    padding-bottom: 0;
 }
