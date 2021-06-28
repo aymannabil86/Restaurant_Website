@@ -693,6 +693,5 @@ transform: rotate(45deg) translate(-5px,-6px);
     background-color: var(--main-color);
     color: #f2f2f1;
     font-size: 18px;
-    padding: 10px;
-    padding-bottom: 0;
+    padding: 10px 0px;
 }
